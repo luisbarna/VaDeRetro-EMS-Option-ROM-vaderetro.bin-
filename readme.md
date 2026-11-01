@@ -1,4 +1,4 @@
-# VaDeRetro EMS Option ROM (`vaderetro.bin`)
+# VaDeRetro EMS Option ROM (`vaderetro.bin`) - beta version
 
 `vaderetro.bin` is a 32 KB PC Option ROM designed for x86 vintage computing architectures (8088/8086/80286+). It provides automated hardware initialization, RAM verification, and visual reporting during POST for compatible EMS (Expanded Memory Specification) ISA expansion boards.
 
